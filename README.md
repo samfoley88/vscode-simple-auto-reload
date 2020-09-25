@@ -28,6 +28,11 @@ time you save a file, that tab will reload.
 
 If you want to stop reloading, run the command `Auto Reload: stop`.
 
+
+Configuration
+-----
+Host - Host settings for connections are configurable in extension settings. *Please note most browsers require extra configuration for (or in the case of Chrome seem not to allow at all) connections from remote machines, although workarounds do exist.*
+
 Remote Development Environments
 -----
 The extension runs locally in the UI environment so is automatically fully compatible with VS Code's Remote Development options provided the browser is on the same machine as the VS Code UI interface.
